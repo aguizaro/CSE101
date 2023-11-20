@@ -2,7 +2,7 @@
 Select C and C++ projects from the CSE:101: Data Structures and Algorithms course at UCSC. 
 
 ## Lex
--This project contains files:
+This project contains files:
 - **Lex.c** : &nbsp; This program takes an input file and uses the List module to output each line to another file in lexicographical order.
 - **List.h** : &nbsp; This is the header file for the List module.
 - **List.c** : &nbsp; This is the implementation file for the List module.
