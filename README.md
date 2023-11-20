@@ -1,5 +1,5 @@
 # CSE101_PROJECTS
-Select C and C++ projects from the CSE:101: Data Structures and Algorithms course at UCSC. 
+Select C and C++ projects from the CSE: 101: Data Structures and Algorithms course at UCSC. 
 
 ## Lex
 This project contains files:
